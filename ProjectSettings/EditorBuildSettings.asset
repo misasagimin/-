@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/meiro w.unity
+    guid: a0a5851ab1794eb4f997f0e6b9cc07d6
+  - enabled: 1
+    path: Assets/meiro.unity
+    guid: de55cdbd6bfa0ec40999a47120228833
+  - enabled: 1
+    path: Assets/meiro o.unity
+    guid: 1569eee83afdb85498a69c0b5da0c068
+  - enabled: 1
+    path: Assets/meiro e.unity
+    guid: c88cbb147f4cdbc428bdea20f4bd5c3e
+  m_configObjects: {}
